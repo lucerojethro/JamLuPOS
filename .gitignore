@@ -1,0 +1,11 @@
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.mdf
+*.ldf
+*.bak
+logs/
+*.log
+Thumbs.db
